@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "frontender",
+			"path": "frontender"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "frontender"
+	}
+}
